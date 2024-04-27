@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abubakar Sarwar</h1>
 <h3 align="center">pursuing Software Engineering</h3>
-<img align="right"alt="coding"width="400"src="https://github.com/AbubakarSarwar012/AbubakarSarwar012/assets/168124656/c9b13789-a082-4779-a720-7ca8715e960d)
-">
+<img align="right"alt="coding"width="400"src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-<p align="left"> <img src="[image]https://komarev.com/ghpvc/?username=abubakarsarwar012&label=Profile%20views&color=0e75b6&style=flat" alt="abubakarsarwar012" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakarsarwar012&label=Profile%20views&color=0e75b6&style=flat" alt="abubakarsarwar012" /> </p>
 
 - I'm currently Learning **Intermediate Computer Science (ICS)**
 
